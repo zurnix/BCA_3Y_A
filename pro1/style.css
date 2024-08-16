@@ -1,0 +1,7 @@
+#demo,#bt{
+    font-size: larger;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
