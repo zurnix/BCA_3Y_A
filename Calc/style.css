@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-shadow: 0 0 10px chartreuse, 0 0 30px rgb(red, green, blue);
+}
+
+#mode{
+    background-color: #d2f8f8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 100px;
+    text-align: center;
+}
+
+.btn{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    background: transparent;
+    border: 4px ridge rgb(210,210,231);
+    border-radius: 0px 15px;
+    margin: 10px;
+    width: 200px;
+    color: rgb(255, 255, 255);
+}
+
